@@ -1,403 +1,488 @@
 [
   {
-    "first_name": "Ketan",
-    "last_name": "Kumbhar",
-    "email": "ketankumb@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Liam",
+    "last_name": "Andersen",
+    "email": "liam.andersen@example.com",
+    "dept": "IT",
+    "status": "Active",
+    "target": "66",
+    "completed": 44
   },
   {
-    "first_name": "Namrata",
-    "last_name": "Wadhwa",
-    "email": "namratkwadh@gmail.com",
-    "phone_number": "12344567",
-    "status": "Active"
-
+    "first_name": "Sophia",
+    "last_name": "Jensen",
+    "email": "sophia.jensen@example.com",
+    "dept": "IT",
+    "status": "Active",
+    "target": "66",
+    "completed": 44
   },
   {
-    "first_name": "Aditya",
-    "last_name": "Mandhana",
-    "email": "adityam@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Emily",
+    "last_name": "Smith",
+    "email": "emily.smith@example.com",
+    "dept": "Sales",
+    "status": "Inactive",
+    "target": "78",
+    "completed": 78
   },
   {
-    "first_name": "Ketan",
-    "last_name": "Kini",
-    "email": "ketank@gmail.com",
-    "phone_number": "12344567",
-    "status": "Active"
-
+    "first_name": "Michael",
+    "last_name": "Johnson",
+    "email": "michael.johnson@example.com",
+    "dept": "Marketing",
+    "status": "Active",
+    "target": "99",
+    "completed": 67
   },
   {
-    "first_name": "Bharati",
-    "last_name": "Govekar",
-    "email": "bharatig@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Olivia",
+    "last_name": "Williams",
+    "email": "olivia.williams@example.com",
+    "dept": "Marketing",
+    "status": "Inactive",
+    "target": "67",
+    "completed": 22
   },
   {
-    "first_name": "Ketan",
-    "last_name": "Kumbhar",
-    "email": "ketankumb@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Alexander",
+    "last_name": "Brown",
+    "email": "alexander.brown@example.com",
+    "dept": "IT",
+    "status": "Inactive",
+    "target": "90",
+    "completed": 56
   },
   {
-    "first_name": "Namrata",
-    "last_name": "Wadhwa",
-    "email": "namratkwadh@gmail.com",
-    "phone_number": "12344567",
-    "status": "Active"
-
+    "first_name": "Sophia",
+    "last_name": "Davis",
+    "email": "sophia.davis@example.com",
+    "dept": "Sales",
+    "status": "Active",
+    "target": "90",
+    "completed": 88
   },
   {
-    "first_name": "Aditya",
-    "last_name": "Mandhana",
-    "email": "adityam@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "David",
+    "last_name": "Miller",
+    "email": "david.miller@example.com",
+    "dept": "Marketing",
+    "status": "Inactive",
+    "target": "100",
+    "completed": 12
   },
   {
-    "first_name": "Ketan",
-    "last_name": "Kini",
-    "email": "ketank@gmail.com",
-    "phone_number": "12344567",
-    "status": "Active"
-
+    "first_name": "Ethan",
+    "last_name": "Wilson",
+    "email": "ethan.wilson@example.com",
+    "dept": "IT",
+    "status": "Active",
+    "target": "99",
+    "completed": 67
   },
   {
-    "first_name": "Bharati",
-    "last_name": "Govekar",
-    "email": "bharatig@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Ava",
+    "last_name": "Anderson",
+    "email": "ava.anderson@example.com",
+    "dept": "Sales",
+    "status": "Inactive",
+    "target": "78",
+    "completed": 78
   },
   {
-    "first_name": "Ketan",
-    "last_name": "Kumbhar",
-    "email": "ketankumb@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Jacob",
+    "last_name": "Thomas",
+    "email": "jacob.thomas@example.com",
+    "dept": "Marketing",
+    "status": "Active",
+    "target": "90",
+    "completed": 88
   },
   {
-    "first_name": "Namrata",
-    "last_name": "Wadhwa",
-    "email": "namratkwadh@gmail.com",
-    "phone_number": "12344567",
-    "status": "Active"
-
+    "first_name": "Mia",
+    "last_name": "Jackson",
+    "email": "mia.jackson@example.com",
+    "dept": "IT",
+    "status": "Inactive",
+    "target": "100",
+    "completed": 12
   },
   {
-    "first_name": "Aditya",
-    "last_name": "Mandhana",
-    "email": "adityam@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Benjamin",
+    "last_name": "White",
+    "email": "benjamin.white@example.com",
+    "dept": "Sales",
+    "status": "Active",
+    "target": "90",
+    "completed": 88
   },
   {
-    "first_name": "Ketan",
-    "last_name": "Kini",
-    "email": "ketank@gmail.com",
-    "phone_number": "12344567",
-    "status": "Active"
-
+    "first_name": "Charlotte",
+    "last_name": "Harris",
+    "email": "charlotte.harris@example.com",
+    "dept": "Marketing",
+    "status": "Inactive",
+    "target": "66",
+    "completed": 44
   },
   {
-    "first_name": "Bharati",
-    "last_name": "Govekar",
-    "email": "bharatig@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Ethan",
+    "last_name": "Martin",
+    "email": "ethan.martin@example.com",
+    "dept": "IT",
+    "status": "Active",
+    "target": "99",
+    "completed": 67
   },
   {
-    "first_name": "Ketan",
-    "last_name": "Kumbhar",
-    "email": "ketankumb@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Ava",
+    "last_name": "Clark",
+    "email": "ava.clark@example.com",
+    "dept": "Sales",
+    "status": "Inactive",
+    "target": "78",
+    "completed": 78
   },
   {
-    "first_name": "Namrata",
-    "last_name": "Wadhwa",
-    "email": "namratkwadh@gmail.com",
-    "phone_number": "12344567",
-    "status": "Active"
-
+    "first_name": "Abigail",
+    "last_name": "Rodriguez",
+    "email": "abigail.rodriguez@example.com",
+    "dept": "Marketing",
+    "status": "Active",
+    "target": "90",
+    "completed": 88
   },
   {
-    "first_name": "Aditya",
-    "last_name": "Mandhana",
-    "email": "adityam@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Liam",
+    "last_name": "Lee",
+    "email": "liam.lee@example.com",
+    "dept": "IT",
+    "status": "Inactive",
+    "target": "100",
+    "completed": 12
   },
   {
-    "first_name": "Ketan",
-    "last_name": "Kini",
-    "email": "ketank@gmail.com",
-    "phone_number": "12344567",
-    "status": "Active"
-
+    "first_name": "Emily",
+    "last_name": "Walker",
+    "email": "emily.walker@example.com",
+    "dept": "Sales",
+    "status": "Active",
+    "target": "90",
+    "completed": 88
   },
   {
-    "first_name": "Bharati",
-    "last_name": "Govekar",
-    "email": "bharatig@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Oliver",
+    "last_name": "Patel",
+    "email": "oliver.patel@example.com",
+    "dept": "Marketing",
+    "status": "Inactive",
+    "target": "66",
+    "completed": 44
   },
   {
-    "first_name": "Ketan",
-    "last_name": "Kumbhar",
-    "email": "ketankumb@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Noah",
+    "last_name": "Lewis",
+    "email": "noah.lewis@example.com",
+    "dept": "IT",
+    "status": "Active",
+    "target": "99",
+    "completed": 67
   },
   {
-    "first_name": "Namrata",
-    "last_name": "Wadhwa",
-    "email": "namratkwadh@gmail.com",
-    "phone_number": "12344567",
-    "status": "Active"
-
+    "first_name": "Elijah",
+    "last_name": "Martin",
+    "email": "elijah.martin@example.com",
+    "dept": "Sales",
+    "status": "Inactive",
+    "target": "78",
+    "completed": 56
   },
   {
-    "first_name": "Aditya",
-    "last_name": "Mandhana",
-    "email": "adityam@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Ava",
+    "last_name": "Hall",
+    "email": "ava.hall@example.com",
+    "dept": "Marketing",
+    "status": "Active",
+    "target": "99",
+    "completed": 67
   },
   {
-    "first_name": "Ketan",
-    "last_name": "Kini",
-    "email": "ketank@gmail.com",
-    "phone_number": "12344567",
-    "status": "Active"
-
+    "first_name": "Isabella",
+    "last_name": "Garcia",
+    "email": "isabella.garcia@example.com",
+    "dept": "IT",
+    "status": "Inactive",
+    "target": "90",
+    "completed": 88
   },
   {
-    "first_name": "Bharati",
-    "last_name": "Govekar",
-    "email": "bharatig@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Logan",
+    "last_name": "Miller",
+    "email": "logan.miller@example.com",
+    "dept": "Sales",
+    "status": "Active",
+    "target": "90",
+    "completed": 88
   },
   {
-    "first_name": "Ketan",
-    "last_name": "Kumbhar",
-    "email": "ketankumb@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Lily",
+    "last_name": "Davis",
+    "email": "lily.davis@example.com",
+    "dept": "Marketing",
+    "status": "Inactive",
+    "target": "66",
+    "completed": 44
   },
   {
-    "first_name": "Namrata",
-    "last_name": "Wadhwa",
-    "email": "namratkwadh@gmail.com",
-    "phone_number": "12344567",
-    "status": "Active"
-
+    "first_name": "Mia",
+    "last_name": "Gonzalez",
+    "email": "mia.gonzalez@example.com",
+    "dept": "IT",
+    "status": "Active",
+    "target": "99",
+    "completed": 67
   },
   {
-    "first_name": "Aditya",
-    "last_name": "Mandhana",
-    "email": "adityam@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Alexander",
+    "last_name": "Rodriguez",
+    "email": "alexander.rodriguez@example.com",
+    "dept": "Sales",
+    "status": "Inactive",
+    "target": "78",
+    "completed": 56
   },
   {
-    "first_name": "Ketan",
-    "last_name": "Kini",
-    "email": "ketank@gmail.com",
-    "phone_number": "12344567",
-    "status": "Active"
-
+    "first_name": "Sophia",
+    "last_name": "Hernandez",
+    "email": "sophia.hernandez@example.com",
+    "dept": "Marketing",
+    "status": "Active",
+    "target": "90",
+    "completed": 88
   },
   {
-    "first_name": "Bharati",
-    "last_name": "Govekar",
-    "email": "bharatig@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Benjamin",
+    "last_name": "Lopez",
+    "email": "benjamin.lopez@example.com",
+    "dept": "IT",
+    "status": "Inactive",
+    "target": "90",
+    "completed": 88
   },
   {
-    "first_name": "Ketan",
-    "last_name": "Kumbhar",
-    "email": "ketankumb@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Charlotte",
+    "last_name": "Thomas",
+    "email": "charlotte.thomas@example.com",
+    "dept": "Sales",
+    "status": "Active",
+    "target": "90",
+    "completed": 88
   },
   {
-    "first_name": "Namrata",
-    "last_name": "Wadhwa",
-    "email": "namratkwadh@gmail.com",
-    "phone_number": "12344567",
-    "status": "Active"
-
+    "first_name": "Gabriel",
+    "last_name": "White",
+    "email": "gabriel.white@example.com",
+    "dept": "Marketing",
+    "status": "Inactive",
+    "target": "66",
+    "completed": 44
   },
   {
-    "first_name": "Aditya",
-    "last_name": "Mandhana",
-    "email": "adityam@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Amelia",
+    "last_name": "Taylor",
+    "email": "amelia.taylor@example.com",
+    "dept": "IT",
+    "status": "Active",
+    "target": "99",
+    "completed": 67
   },
   {
-    "first_name": "Ketan",
-    "last_name": "Kini",
-    "email": "ketank@gmail.com",
-    "phone_number": "12344567",
-    "status": "Active"
-
+    "first_name": "Ethan",
+    "last_name": "Harris",
+    "email": "ethan.harris@example.com",
+    "dept": "Sales",
+    "status": "Inactive",
+    "target": "78",
+    "completed": 56
   },
   {
-    "first_name": "Bharati",
-    "last_name": "Govekar",
-    "email": "bharatig@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Harper",
+    "last_name": "Lewis",
+    "email": "harper.lewis@example.com",
+    "dept": "Marketing",
+    "status": "Active",
+    "target": "90",
+    "completed": 88
   },
   {
-    "first_name": "Ketan",
-    "last_name": "Kumbhar",
-    "email": "ketankumb@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Evelyn",
+    "last_name": "Walker",
+    "email": "evelyn.walker@example.com",
+    "dept": "IT",
+    "status": "Inactive",
+    "target": "90",
+    "completed": 88
   },
   {
-    "first_name": "Namrata",
-    "last_name": "Wadhwa",
-    "email": "namratkwadh@gmail.com",
-    "phone_number": "12344567",
-    "status": "Active"
-
+    "first_name": "Lucas",
+    "last_name": "Robinson",
+    "email": "lucas.robinson@example.com",
+    "dept": "Sales",
+    "status": "Active",
+    "target": "90",
+    "completed": 88
   },
   {
-    "first_name": "Aditya",
-    "last_name": "Mandhana",
-    "email": "adityam@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Abigail",
+    "last_name": "Brown",
+    "email": "abigail.brown@example.com",
+    "dept": "Marketing",
+    "status": "Inactive",
+    "target": "66",
+    "completed": 44
   },
   {
-    "first_name": "Ketan",
-    "last_name": "Kini",
-    "email": "ketank@gmail.com",
-    "phone_number": "12344567",
-    "status": "Active"
-
+    "first_name": "Olivia",
+    "last_name": "Davis",
+    "email": "olivia.davis@example.com",
+    "dept": "IT",
+    "status": "Active",
+    "target": "99",
+    "completed": 67
   },
   {
-    "first_name": "Bharati",
-    "last_name": "Govekar",
-    "email": "bharatig@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Julian",
+    "last_name": "Miller",
+    "email": "julian.miller@example.com",
+    "dept": "Sales",
+    "status": "Inactive",
+    "target": "78",
+    "completed": 56
   },
   {
-    "first_name": "Ketan",
-    "last_name": "Kumbhar",
-    "email": "ketankumb@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Avery",
+    "last_name": "Garcia",
+    "email": "avery.garcia@example.com",
+    "dept": "Marketing",
+    "status": "Active",
+    "target": "90",
+    "completed": 88
   },
   {
-    "first_name": "Namrata",
-    "last_name": "Wadhwa",
-    "email": "namratkwadh@gmail.com",
-    "phone_number": "12344567",
-    "status": "Active"
-
+    "first_name": "Riley",
+    "last_name": "Rodriguez",
+    "email": "riley.rodriguez@example.com",
+    "dept": "IT",
+    "status": "Inactive",
+    "target": "90",
+    "completed": 88
   },
   {
-    "first_name": "Aditya",
-    "last_name": "Mandhana",
-    "email": "adityam@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Landon",
+    "last_name": "Lopez",
+    "email": "landon.lopez@example.com",
+    "dept": "Sales",
+    "status": "Active",
+    "target": "90",
+    "completed": 88
   },
   {
-    "first_name": "Ketan",
-    "last_name": "Kini",
-    "email": "ketank@gmail.com",
-    "phone_number": "12344567",
-    "status": "Active"
-
+    "first_name": "Zoe",
+    "last_name": "Hernandez",
+    "email": "zoe.hernandez@example.com",
+    "dept": "Marketing",
+    "status": "Inactive",
+    "target": "66",
+    "completed": 44
   },
   {
-    "first_name": "Bharati",
-    "last_name": "Govekar",
-    "email": "bharatig@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Parker",
+    "last_name": "Martin",
+    "email": "parker.martin@example.com",
+    "dept": "IT",
+    "status": "Active",
+    "target": "99",
+    "completed": 67
   },
   {
-    "first_name": "Ketan",
-    "last_name": "Kumbhar",
-    "email": "ketankumb@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Mason",
+    "last_name": "Hall",
+    "email": "mason.hall@example.com",
+    "dept": "Sales",
+    "status": "Inactive",
+    "target": "78",
+    "completed": 56
   },
   {
-    "first_name": "Namrata",
-    "last_name": "Wadhwa",
-    "email": "namratkwadh@gmail.com",
-    "phone_number": "12344567",
-    "status": "Active"
-
+    "first_name": "Sadie",
+    "last_name": "Gonzalez",
+    "email": "sadie.gonzalez@example.com",
+    "dept": "Marketing",
+    "status": "Active",
+    "target": "90",
+    "completed": 88
   },
   {
-    "first_name": "Aditya",
-    "last_name": "Mandhana",
-    "email": "adityam@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Caleb",
+    "last_name": "Thomas",
+    "email": "caleb.thomas@example.com",
+    "dept": "IT",
+    "status": "Inactive",
+    "target": "90",
+    "completed": 88
   },
   {
-    "first_name": "Ketan",
-    "last_name": "Kini",
-    "email": "ketank@gmail.com",
-    "phone_number": "12344567",
-    "status": "Active"
-
+    "first_name": "Lila",
+    "last_name": "White",
+    "email": "lila.white@example.com",
+    "dept": "Sales",
+    "status": "Active",
+    "target": "90",
+    "completed": 88
   },
   {
-    "first_name": "Bharati",
-    "last_name": "Govekar",
-    "email": "bharatig@gmail.com",
-    "phone_number": "12344567",
-    "status": "Inactive"
-
+    "first_name": "Jaxon",
+    "last_name": "Harris",
+    "email": "jaxon.harris@example.com",
+    "dept": "Marketing",
+    "status": "Inactive",
+    "target": "66",
+    "completed": 44
+  },
+  {
+    "first_name": "Aubrey",
+    "last_name": "Taylor",
+    "email": "aubrey.taylor@example.com",
+    "dept": "IT",
+    "status": "Active",
+    "target": "99",
+    "completed": 67
+  },
+  {
+    "first_name": "Rowan",
+    "last_name": "Lewis",
+    "email": "rowan.lewis@example.com",
+    "dept": "Sales",
+    "status": "Inactive",
+    "target": "78",
+    "completed": 56
+  },
+  {
+    "first_name": "Paisley",
+    "last_name": "Walker",
+    "email": "paisley.walker@example.com",
+    "dept": "Marketing",
+    "status": "Active",
+    "target": "90",
+    "completed": 88
+  },
+  {
+    "first_name": "Sawyer",
+    "last_name": "Robinson",
+    "email": "sawyer.robinson@example.com",
+    "dept": "IT",
+    "status": "Inactive",
+    "target": "90",
+    "completed": 88
   }
-
 ]

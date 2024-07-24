@@ -10,7 +10,7 @@ export class ContactListService {
   public actionSelected: string = 'Add';
   public selectedContactDetails: contact = {};
   public editContactIndex: number;
-  private _url: string = '/assets/contacts-10.json'
+  private _url: string = '/assets/contacts-50.json'
 
   constructor(private httpService: HttpClient) { }
 
